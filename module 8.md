@@ -99,6 +99,7 @@ Algorithm:
 6.	End
  
 Program:
+```
 #include<stdio.h> 
 #include<string.h> 
 int main()
@@ -120,8 +121,9 @@ c+=1;
 printf("%d ",c); h++;
 }
 }
-
+```
 Output:
+
 ![image](https://github.com/user-attachments/assets/1cf698d7-b09e-4e22-adce-3958579d615e)
 
 Result:
@@ -193,6 +195,7 @@ for(int i=0;i<n;i++) free (s[i]);
 free(s); return 0;
 }
 }
+```
 Output:
 
 ![image](https://github.com/user-attachments/assets/5c432891-ee6f-41d6-a8fe-4cb509b71bd8)
